@@ -1,4 +1,4 @@
-🧩Projeto Final – Portal Imobiliário
+Portal Imobiliário
 Este projeto tem como objetivo o desenvolvimento de um portal imobiliário moderno, responsivo e funcional, voltado para compra, venda e aluguel de imóveis. A proposta é criar uma plataforma onde usuários possam buscar, visualizar e anunciar imóveis de forma prática, segura e intuitiva.
 
 A aplicação será desenvolvida utilizando PHP com o framework Laravel, seguindo boas práticas de desenvolvimento web. O sistema contará com funcionalidades como:
